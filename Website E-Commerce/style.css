@@ -1,0 +1,13 @@
+.text-center {
+    color: white
+}
+
+.text-body {
+    background-color: azure;
+    width: 20px;
+    height: 10px
+}
+
+.strong {
+    color: black;
+}
